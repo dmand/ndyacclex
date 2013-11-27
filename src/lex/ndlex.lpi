@@ -36,7 +36,7 @@
     </RunParams>
     <Units Count="1">
       <Unit0>
-        <Filename Value="ndlex.dpr"/>
+        <Filename Value="ndlex.lpr"/>
         <IsPartOfProject Value="True"/>
       </Unit0>
     </Units>
